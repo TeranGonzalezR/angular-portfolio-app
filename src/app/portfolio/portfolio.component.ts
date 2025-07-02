@@ -21,7 +21,7 @@ export class PortfolioComponent {
       summary: "Construcción de una landing page moderna y responsiva basada en React.js, partiendo de un diseño Figma. El proyecto guía desde la codificación con componentes funcionales hasta el despliegue en servidores rápidos con dominio propio. Ideal para mejorar habilidades en diseño UI/UX, CSS, React y despliegue web profesional.",
       description: "Este proyecto consiste en la creación e implementación de un sitio web moderno, completamente responsivo, utilizando React.js como framework principal. A través de un enfoque didáctico, se enseña cómo transformar un diseño profesional realizado en Figma (específicamente el diseño GPT-3 de AR Shakir) en un sitio web funcional. El tutorial incluye buenas prácticas de desarrollo frontend, estructura de carpetas, uso de componentes reutilizables, estilización con CSS modular y despliegue profesional con dominio personalizado y certificado SSL, utilizando Hostinger como proveedor de hosting.",
       projectLink: 'https://github.com/ReneeeeeDev/GPT-3-Responsive-web-site-using-React-.git',
-      tags: [Tag.GOLANG],
+      tags: [Tag.HTML5, Tag.REACT,Tag.CSS3],
       pictures: ["../../assets/Gpt3A.png", "../../assets/Gpt3B.png","../../assets/Gpt3C.png"]
     },
     {
@@ -30,7 +30,7 @@ export class PortfolioComponent {
       summary: "Desarrollo e implementación de una aplicación e-commerce full stack moderna con React, Next.js, Stripe y Sanity. Incluye carrito avanzado, pagos reales, CMS dinámico y diseño responsive. Ideal para aprender a construir tiendas online escalables y listas para producción.",
       description: "Este proyecto es una aplicación web Full Stack de comercio electrónico moderna y completamente funcional, desarrollada con React.js, Next.js, Stripe y Sanity CMS. A lo largo del desarrollo, se aplican buenas prácticas avanzadas en React, como el uso de hooks, refs, gestión de estado con Context API, y arquitectura de carpetas. En el lado del servidor, se aprovechan las capacidades de Next.js para renderizado estático y dinámico. Además, se realiza una integración completa con Stripe, permitiendo pagos reales, gestión de productos y del proceso de compra. También se utiliza Sanity como CMS para administrar dinámicamente el contenido y productos de la tienda sin necesidad de modificar el código, facilitando una experiencia escalable y profesional tanto para desarrolladores como para clientes.",
       projectLink: 'https://github.com/ReneeeeeDev/E-commerce-Strapi.git',
-      tags: [Tag.HTML5, Tag.CSS3, Tag.TYPESCRIPT, Tag.BOOTSTRAP, Tag.POSTGRESQL, Tag.DOCKER, Tag.DOCKERCOMPOSE, Tag.GOLANG, Tag.ANGULAR, Tag.RABBITMQ, Tag.PYTHON],
+      tags: [Tag.HTML5, Tag.CSS3, Tag.TYPESCRIPT, Tag.BOOTSTRAP, Tag.POSTGRESQL,Tag.REACT, Tag.RABBITMQ, Tag.PYTHON],
       pictures: ["../../assets/strapiA.png", "../../assets/strapiB.png", "../../assets/strapiC.png", "../../assets/strapiD.png",]
     },
     {
@@ -39,8 +39,8 @@ export class PortfolioComponent {
       summary: 'Conjunto de herramientas pentesting para evaluación de seguridad y análisis, sin implementación de técnicas de evasión de antivirus, ideal para pruebas básicas y avanzadas.',
       description: 'Este repositorio alberga un conjunto de herramientas de pentesting utilizadas para la evaluación de seguridad y análisis de sistemas, sin incluir técnicas específicas para la evasión de antivirus. Las herramientas están diseñadas para facilitar tareas comunes como escaneo de vulnerabilidades, explotación, enumeración y recolección de información, proporcionando funcionalidades prácticas y eficientes para pruebas de seguridad. Este repositorio es adecuado para quienes buscan recursos pentesting confiables y fáciles de usar en entornos donde la evasión de AV no es un requisito.',
       projectLink: 'https://github.com/ReneeeeeDev/herramientas-pentesting.git',
-      tags: [Tag.PYTHON, Tag.PYTEST, Tag.FASTAPI, Tag.PYDANTIC, Tag.POSTGRESQL, Tag.SQLITE, Tag.SQLALCHEMY, Tag.DOCKER, Tag.DOCKERCOMPOSE],
-      pictures: ["../../assets/casino01.png", ]
+      tags: [Tag.PYTHON, Tag.HTML5, Tag.POWERSHELL]
+,      pictures: ["../../assets/casino01.png", ]
     },
     {
       id: 4,
@@ -48,7 +48,7 @@ export class PortfolioComponent {
       summary: 'Colección de herramientas de pentesting con foco en evasión de antivirus, combinando desarrollos propios y modificaciones para mejorar la capacidad de bypass en entornos protegidos.',
       description: 'Este repositorio contiene una colección de herramientas de pentesting especializadas en la evasión de antivirus (AV). Incluye tanto herramientas propias desarrolladas desde cero como versiones modificadas y mejoradas de herramientas existentes para incrementar su capacidad de evitar la detección por sistemas de seguridad. Cada herramienta implementa diversas técnicas como ofuscación, modificación de payloads, empaquetado dinámico, entre otras, para asegurar que las pruebas de penetración puedan ejecutarse con mayor efectividad y realismo, simulando ataques sofisticados. Este repositorio es ideal para profesionales de ciberseguridad que necesitan herramientas avanzadas para evaluar la robustez de los antivirus y sistemas de defensa.',
       projectLink: 'https://github.com/ReneeeeeDev/pentesting-tools-AV-Bypass.git',
-      tags: [Tag.PYTHON, Tag.PYTEST, Tag.FASTAPI, Tag.ANGULAR, Tag.BOOTSTRAP, Tag.CSS3, Tag.HTML5, Tag.DOCKER, Tag.DOCKERCOMPOSE, Tag.SQLITE],
+      tags: [Tag.PYTHON, Tag.PYTEST, Tag.FASTAPI, Tag.POWERSHELL, Tag.SQLITE],
       pictures: ["../../assets/pokedex_01.png", "../../assets/pokedex_02.png", ]
     },
     {
@@ -57,7 +57,7 @@ export class PortfolioComponent {
       summary: 'Herramienta modificada de PowerView para evadir antivirus mediante técnicas de ofuscación y bypass, orientada a pruebas de penetración y auditorías de seguridad avanzadas.',
       description: 'Herramienta modificada de PowerView para evadir antivirus mediante técnicas de ofuscación y bypass, orientada a pruebas de penetración y auditorías de seguridad avanzadas.',
       projectLink: 'https://github.com/ReneeeeeDev/pentesting-tools-AV-Bypass/blob/main/PowerViewObfuscated.ps1',
-      tags: [Tag.VUEJS, Tag.TYPESCRIPT, Tag.HTML5, Tag.CSS3, Tag.BOOTSTRAP, Tag.JAVA, Tag.JPA, Tag.JDBC, Tag.JUNIT, Tag.MOCKITO, Tag.HIBERNATE, Tag.LOMBOK, Tag.SPRINGBOOT, Tag.SPRINGWEB],
+      tags: [Tag.POWERSHELL, Tag.PYTHON],
       pictures: ["../../assets/PoweView.png", "../../assets/PoweViewObfuscated.png", "../../assets/PowerViewAVBypass.png",]
     },
     {
@@ -84,7 +84,7 @@ export class PortfolioComponent {
       summary: "Conjunto de herramientas pentesting para evaluación de seguridad y análisis, sin implementación de técnicas de evasión de antivirus, ideal para pruebas básicas y avanzadas.",
       description: "El backend del sistema está desarrollado en Node.js, diseñado para automatizar y gestionar de forma eficiente los procesos logísticos del transporte terrestre en Ecuador. Expone una API RESTful robusta que permite realizar operaciones CRUD completas sobre entidades clave como buses, rutas, paradas, frecuencias, choferes y turnos. La arquitectura está pensada para ser escalable, segura y fácil de mantener, utilizando frameworks y herramientas modernas de desarrollo backend (como Express.js y middlewares personalizados), integrando control de acceso y validación de datos. Este sistema es la columna vertebral del proyecto, permitiendo centralizar y optimizar la información del sistema de transporte público.",
       projectLink: 'https://github.com/CriSant20/sigsa-app-backend.git',
-      tags: [Tag.PYTHON, Tag.FLASK, Tag.HTML5, Tag.CSS3, Tag.JAVASCRIPT, Tag.INSOMNIA, Tag.POSTGRESQL, Tag.SQLALCHEMY, Tag.SQL],
+      tags: [Tag.PYTHON, Tag.NODEJS, Tag.JAVASCRIPT, Tag.INSOMNIA, Tag.POSTGRESQL, Tag.SQLALCHEMY, Tag.SQL],
       pictures: ["../../assets/dou_01.png", "../../assets/dou_02.png", "../../assets/dou_03.png"]
     },
     {
@@ -93,7 +93,7 @@ export class PortfolioComponent {
       description: 'Este proyecto consiste en un descargador automatizado de música, desarrollado en Python utilizando la biblioteca Selenium. El objetivo principal es permitir al usuario descargar canciones o listas de reproducción completas en alta calidad desde una plataforma de terceros, a partir de enlaces tomados directamente desde Spotify. El programa simula la interacción humana en el navegador: detecta y analiza automáticamente el contenido musical del sitio web de destino, accede a la fuente de descarga y guarda los archivos de forma local en el equipo. Todo el proceso se realiza con tan solo un clic sobre una canción o playlist, gracias al uso de WebDriver, lo que lo convierte en una solución práctica y eficiente para la automatización de descargas musicales.',
       summary: "Descargador de música en alta calidad automatizado con Selenium y Python, que permite bajar canciones o playlists desde Spotify con un solo clic, utilizando un navegador controlado por WebDriver.",
       projectLink: 'https://github.com/#######/simple-slot-machine-game',
-      tags: [Tag.JAVASCRIPT, Tag.HTML5, Tag.CSS3],
+      tags: [Tag.PYTHON, Tag.SELENIUM, Tag.HTML5, Tag.CSS3, Tag.JAVASCRIPT, ],
       pictures: ["../../assets/SpotifyDownloaderAA.png", "../../assets/SpotifyDownloaderAB.png", "../../assets/SpotifyDownloaderA.png","../../assets/SpotifyDownloaderB.png"]
     },
     /* {

@@ -27,6 +27,7 @@ export class Tag {
     static readonly JAVASCRIPT = new Tag('Javascript', '#192129');
     static readonly HTML5 = new Tag('HTML5', '#192129');
     static readonly CSS3 = new Tag('CSS3', '#192129');
+      static readonly REACT = new Tag('React', '#192129');
     static readonly BOOTSTRAP = new Tag('Bootstrap', '#192129');
     static readonly PYTEST = new Tag('Pytest', '#4a6a77');
     static readonly JUNIT = new Tag('JUnit', '#5a7581');
@@ -40,9 +41,9 @@ export class Tag {
     static readonly PYDANTIC = new Tag('Pydantic', '##4a6a77');
     static readonly GOLANG = new Tag('Golang', '#457189');
     static readonly RABBITMQ = new Tag('RabbitMQ', '#457189' )
+ static readonly POWERSHELL = new Tag('POWESHELL', '#5a7581');
 
-
-
+static readonly NODEJS = new Tag('NodeJS', '#355158');
 
 
 
