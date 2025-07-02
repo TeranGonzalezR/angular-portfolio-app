@@ -37,9 +37,10 @@ h1 {
 
 .contact-image {
     width: 250px;
-    height: 250px;
+    height: 250px; /* igual que el ancho para que sea círculo */
     border-radius: 50%;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
+    object-fit: cover; /* para que la imagen rellene el contenedor y no se distorsione */
 }
 
 .contact-paragraph {
