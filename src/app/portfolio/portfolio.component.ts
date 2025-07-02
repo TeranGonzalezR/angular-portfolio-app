@@ -65,7 +65,7 @@ export class PortfolioComponent {
       name: 'Portafolio hecho en Angular',
       summary: 'Una página web de portafolio dinámica y responsiva',
       description: 'Este portafolio es una aplicación web dinámica y responsiva desarrollada con Angular, que muestra mis habilidades y proyectos como desarrollador de software. El diseño y desarrollo de este portafolio tuvo como objetivo brindar una experiencia de usuario fluida en diferentes dispositivos, destacando diversos aspectos de mi trayectoria profesional. El portafolio cuenta con secciones de inicio, acerca de mí, educación, proyectos del portafolio e información de contacto. Sus características clave son el contenido dinámico, el diseño responsivo y una estética moderna.',
-      projectLink: 'https://github.com/#######/angular-portfolio-app',
+      projectLink: 'https://github.com/TeranGonzalezR/angular-portfolio-app.git',
       tags: [Tag.ANGULAR, Tag.TYPESCRIPT, Tag.HTML5, Tag.CSS3, Tag.BOOTSTRAP],
       pictures: ["../../assets/portfolio_01.png", "../../assets/portfolio_02.png", "../../assets/portfolio_03.png", "../../assets/portfolio_05.png"]
     },
@@ -92,7 +92,7 @@ export class PortfolioComponent {
       name: 'Descargador de Musica HF con Python',
       description: 'Este proyecto consiste en un descargador automatizado de música, desarrollado en Python utilizando la biblioteca Selenium. El objetivo principal es permitir al usuario descargar canciones o listas de reproducción completas en alta calidad desde una plataforma de terceros, a partir de enlaces tomados directamente desde Spotify. El programa simula la interacción humana en el navegador: detecta y analiza automáticamente el contenido musical del sitio web de destino, accede a la fuente de descarga y guarda los archivos de forma local en el equipo. Todo el proceso se realiza con tan solo un clic sobre una canción o playlist, gracias al uso de WebDriver, lo que lo convierte en una solución práctica y eficiente para la automatización de descargas musicales.',
       summary: "Descargador de música en alta calidad automatizado con Selenium y Python, que permite bajar canciones o playlists desde Spotify con un solo clic, utilizando un navegador controlado por WebDriver.",
-      projectLink: 'https://github.com/#######/simple-slot-machine-game',
+      projectLink: 'https://github.com/TeranGonzalezR/PythonProjects.git',
       tags: [Tag.PYTHON, Tag.SELENIUM, Tag.HTML5, Tag.CSS3, Tag.JAVASCRIPT, ],
       pictures: ["../../assets/SpotifyDownloaderAA.png", "../../assets/SpotifyDownloaderAB.png", "../../assets/SpotifyDownloaderA.png","../../assets/SpotifyDownloaderB.png"]
     },
