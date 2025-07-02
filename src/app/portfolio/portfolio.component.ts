@@ -21,7 +21,7 @@ export class PortfolioComponent {
       summary: "Construcción de una landing page moderna y responsiva basada en React.js, partiendo de un diseño Figma. El proyecto guía desde la codificación con componentes funcionales hasta el despliegue en servidores rápidos con dominio propio. Ideal para mejorar habilidades en diseño UI/UX, CSS, React y despliegue web profesional.",
       description: "Este proyecto consiste en la creación e implementación de un sitio web moderno, completamente responsivo, utilizando React.js como framework principal. A través de un enfoque didáctico, se enseña cómo transformar un diseño profesional realizado en Figma (específicamente el diseño GPT-3 de AR Shakir) en un sitio web funcional. El tutorial incluye buenas prácticas de desarrollo frontend, estructura de carpetas, uso de componentes reutilizables, estilización con CSS modular y despliegue profesional con dominio personalizado y certificado SSL, utilizando Hostinger como proveedor de hosting.",
       projectLink: 'https://github.com/ReneeeeeDev/GPT-3-Responsive-web-site-using-React-.git',
-      tags: [Tag.HTML5, Tag.REACT,Tag.CSS3],
+      tags: [Tag.HTML5, Tag.REACT,Tag.CSS3, Tag.TYPESCRIPT, Tag.BOOTSTRAP, Tag.JAVASCRIPT],
       pictures: ["../../assets/Gpt3A.png", "../../assets/Gpt3B.png","../../assets/Gpt3C.png"]
     },
     {
